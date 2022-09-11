@@ -1,6 +1,6 @@
 # SPC1: Simulacro de Práctica Calificada 1
 **course:** Programación II  
-**unit:** 1 y 2  
+**unit:** 1, 2 y 3
 **cmake project:** PROG2_PC1_SIMULACRO_v2021_2
 
 ## Indicaciones Específicas
