@@ -1,0 +1,23 @@
+#input
+    20
+#output
+    no coincide
+#endtest
+
+#input
+    30
+#output
+    no coincide
+#endtest
+
+#input
+    10
+#output
+    4
+#endtest
+
+#input
+    45
+#output
+    9
+#endtest
